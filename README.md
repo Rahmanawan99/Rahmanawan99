@@ -4,11 +4,10 @@ I know JavaScript, Python, and Java, and have experience working with React.
 Feel free to reach out to me if you have any questions or just want to chat about software development!
 
 Passion:
-[![GitHub](https://simpleicons.org/icons/VSCO.svg)](https://vsco.co/rahmanawan99/gallery)
+[![VSCO](https://img.shields.io/badge/VSCO-000000?style=for-the-badge&logo=VSCO&logoColor=white)](https://vsco.co/rahmanawan99/gallery)
 Profession:
-[![GitHub](https://simpleicons.org/icons/Linkedln.svg)](https://vsco.co/rahmanawan99/gallery)
-
-Rahmanawan99
+[![Linkedln](https://img.shields.io/badge/Linkedln-000000?style=for-the-badge&logo=Linkedln&logoColor=white)](https://vsco.co/rahmanawan99/gallery)
+Github:
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 
