@@ -6,7 +6,7 @@ Feel free to reach out to me if you have any questions or just want to chat abou
 Passion:
 [![VSCO](https://img.shields.io/badge/VSCO-000000?style=for-the-badge&logo=VSCO&logoColor=white)](https://vsco.co/rahmanawan99/gallery)
 Profession:
-[![Linkedln](https://img.shields.io/badge/Linkedln-000000?style=for-the-badge&logo=Linkedln&logoColor=white)](https://www.linkedin.com/in/rahman-ahmed-awan-b22218193/)
+[![Linkedln](https://img.shields.io/badge/Linkedln-0A66C2?style=for-the-badge&logo=Linkedln&logoColor=white)](https://www.linkedin.com/in/rahman-ahmed-awan-b22218193/)
 Github:
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Rahmanawan99)
 
