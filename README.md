@@ -5,12 +5,10 @@ Feel free to reach out to me if you have any questions or just want to chat abou
 
 Passion:
 [![VSCO](https://img.shields.io/badge/VSCO-000000?style=for-the-badge&logo=VSCO&logoColor=white)](https://vsco.co/rahmanawan99/gallery)
-Profession:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahman Ahmed Awan-blue)](https://www.linkedin.com/in/rahman-ahmed-awan-b22218193/)
 Github:
 [![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Rahmanawan99)
 Profession
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-johndoe-blue)](https://www.linkedin.com/in/rahman-ahmed-awan-b22218193/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahman Ahmed Awan-blue)](https://www.linkedin.com/in/rahman-ahmed-awan-b22218193/)
 
 
 
