@@ -8,7 +8,7 @@ Passion:
 Github:
 [![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Rahmanawan99)
 Profession
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahman Ahmed Awan-blue)](https://www.linkedin.com/in/rahman-ahmed-awan-b22218193/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-RahmanAwan-blue)](https://www.linkedin.com/in/rahman-ahmed-awan-b22218193/)
 
 
 
@@ -17,12 +17,11 @@ Profession
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Python
+- 🌱 I’m currently learning YOLOv7
+- 👯 I’m looking to collaborate on Image Processing Projects
+- 🤔 I’m looking for help with YOLOV7
+- 💬 Ask me about Image Processing and Machine Learning
+- 📫 How to reach me: rahmanahmed111@gmail.com
+- ⚡ Fun fact: I made this page in my final CS undergraduate year 
 -->
