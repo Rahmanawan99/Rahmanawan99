@@ -1,6 +1,16 @@
 ### Hi there 👋
+I'm Rahman, a CS Student with a passion for building innovative and user-friendly apps.
+I know JavaScript, Python, and Java, and have experience working with React. 
+Feel free to reach out to me if you have any questions or just want to chat about software development!
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+Passion: 
+rahmanawan99
+![vsco](https://img.shields.io/badge/VSCO-000000?style=for-the-badge&logo=VSCO&logoColor=white)
+
+Rahmanawan99
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+
+
 
 <!--
 **Rahmanawan99/Rahmanawan99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
