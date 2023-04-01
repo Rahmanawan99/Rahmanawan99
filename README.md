@@ -2,6 +2,7 @@
 I'm Rahman, a CS Student with a passion for building innovative and user-friendly apps.
 I know JavaScript, Python, and Java, and have experience working with React. 
 Feel free to reach out to me if you have any questions or just want to chat about software development!
+Email: rahmanahmed111@gmail.com
 
 Passion:
 [![VSCO](https://img.shields.io/badge/VSCO-000000?style=for-the-badge&logo=VSCO&logoColor=white)](https://vsco.co/rahmanawan99/gallery)
