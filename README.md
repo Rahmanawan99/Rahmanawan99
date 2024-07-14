@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Rahman, a CS Student with a passion for building innovative and user-friendly apps.
-I know JavaScript, Python, and Java, and have experience working with React. 
+I know JS, Python, and Java, and have experience working with React. 
 Feel free to reach out to me if you have any questions or just want to chat about software development!
 Email: rahmanahmed111@gmail.com
 
