@@ -1,8 +1,8 @@
-### Hi there 👋
-I'm Rahman, a CS Student with a passion for building innovative and user-friendly apps.
-I know JS, Python, and Java, and have experience working with React. 
-Feel free to reach out to me if you have any questions or just want to chat about software development!
-Email: rahmanahmed111@gmail.com
+### 👋 Hi, I'm Rahman — an MSc Artificial Intelligence student based in Dubai, currently working in RegTech (Regulatory Technology).
+I'm passionate about building innovative, user-friendly apps that automate and accelerate everyday tasks. While I'm not a traditional software engineer by title, I enjoy using code to solve problems and streamline workflows.
+I work primarily with JavaScript, Python, and Java, and have hands-on experience with React and modern web technologies.
+Always open to chatting about AI, automation, or development in general — feel free to reach out!
+📫 Email: rahmanahmed111@gmail.com
 
 Passion:
 [![VSCO](https://img.shields.io/badge/VSCO-000000?style=for-the-badge&logo=VSCO&logoColor=white)](https://vsco.co/rahmanawan99/gallery)
